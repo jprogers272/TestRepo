@@ -3,6 +3,8 @@
 #include <string.h>
 #include <math.h>
 
+//new comment in different branch for testing
+
 int hexStringToDecimalString (char *hexString);
 char *readInput (void);
 void mExit (int status);
